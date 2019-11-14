@@ -1,0 +1,45 @@
+﻿Lucky Break
+The Presto machine isn't working. You get a free ride! Advance to Go.
+0
+Extra! Extra!
+You wander into the Epigram's end of year party. You get free pizza!
+200
+Pizzaiolo
+You can't resist a slice of that Godfather pizza!
+-50
+Deserved Victory
+You actually study for your test. Surprise, you did well.
+50
+Get out of Detention Free
+You catch two married teachers fooling around-This card may be kept until needed or sold/traded.
+0
+Risky Roaches
+You try to sneak into the school on the weekend, but you're caught! Go directly to Detention. Do not pass Go, Do not collect $200.
+0
+SACStock
+You're performing live in front of the school with a terrible cover band. Collect $50 from every player for seats.
+0
+Half Day
+Your teacher schedules a test on a half day by mistake. There's not enough time so it's pushed to next week!
+100
+Blood In
+You donate blood in the gym. You get a lollipop.
+100
+Referee Fee
+You gotta pay to play sports?
+-100
+School Fee
+You gotta pay to go to school?
+-100
+Peer Tutor
+You help your little brother with his homework. You take his money when he's not looking.
+25
+Earth Day
+You need t-shirts for every person. Pay $40 per student and $115 per teacher.
+0
+Big Winner
+You win second place in a beauty contest.
+10
+New Staff
+There is a staff change. You seize this opportunity to claim a spot in the staff parking lot.
+100

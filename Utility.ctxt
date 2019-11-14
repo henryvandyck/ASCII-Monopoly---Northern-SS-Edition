@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Utility
+comment1.params=theName\ theCost\ thePunishment\ loc\ sprite
+comment1.target=Utility(java.lang.String,\ int,\ int,\ int,\ java.lang.String[])
+comment1.text=\n\ Constructor\ for\ a\ Utility\ object.\n\ @param\ theName\ the\ name\ of\ this\ Utility\n\ @param\ theCost\ its\ cost\n\ @param\ thePunishment\ the\ value\ of\ its\ punishment\n\ @param\ loc\ its\ location\n\ @param\ sprite\ a\ String\ representation\ of\ the\ appearance\ of\ this\ Utility\n
+comment2.params=
+comment2.target=void\ punish()
+comment2.text=\n\ Punishes\ the\ active\ Player\ according\ to\ this\ Utilitiy's\ attributes.\n
+numComments=3

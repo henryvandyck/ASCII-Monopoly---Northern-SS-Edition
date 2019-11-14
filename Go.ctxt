@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Go
+comment1.params=sprite
+comment1.target=Go(java.lang.String[])
+comment1.text=\n\ Constructor\ for\ a\ Go\ object.\n\ @param\ sprite\ a\ String\ representation\ of\ the\ appearance\ of\ this\ Go\n
+comment2.params=
+comment2.target=void\ doItsThing()
+comment2.text=\n\ Deposits\ the\ Go\ amount\ into\ the\ active\ Player's\ balance.\n
+comment3.params=
+comment3.target=int\ getGoAmount()
+comment3.text=\n\ Returns\ the\ amount\ Go\ deposits\ when\ landed\ upon.\n
+numComments=4

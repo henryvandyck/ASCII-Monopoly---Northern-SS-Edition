@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=UI
+comment1.params=str1\ str2\ str3
+comment1.target=void\ printBoard(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Prints\ the\ Northernopoly\ board\ and\ all\ relevant\ information\ to\ the\ terminal.\n\ @param\ str1\ the\ first\ line\ of\ information\ to\ be\ printed\ beside\ the\ board\n\ @param\ str2\ the\ second\ line\ of\ such\ information\n\ @param\ str3\ the\ third\ line\ of\ such\ information\n
+comment2.params=str1\ str2\ str3
+comment2.target=void\ setup(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\n\ prints\ three\ lines\ of\ output\ to\ the\ terminal,\ with\ proper\ spacing\n\ @param\ str1\ the\ first\ line\ of\ information\ to\ be\ printed\n\ @param\ str2\ the\ second\ line\ of\ such\ information\n\ @param\ str3\ the\ third\ line\ of\ such\ information\n
+comment3.params=winner
+comment3.target=void\ endgame(Player)
+comment3.text=\n\ prints\ three\ lines\ of\ output\ to\ the\ terminal,\ with\ proper\ spacing\n\ @param\ str1\ the\ first\ line\ of\ information\ to\ be\ printed\n\ @param\ str2\ the\ second\ line\ of\ such\ information\n\ @param\ str3\ the\ third\ line\ of\ such\ information\n
+comment4.params=str1\ str2\ str3\ arr
+comment4.target=void\ selectProps(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment4.text=\n\ To\ be\ used\ when\ choosing\ a\ property\ to\ mortgage,\ build,\ or\ perform\ some\ other\ action\ on.\ Prints\ the\ board\ and\ relevant\ information\n\ to\ the\ terminal\ while\ only\ dispaying\ information\ for\ those\ Squares\ which\ the\ active\ player\ owns\ and\ can\ currently\ mortgage.\n\ @param\ str1\ the\ first\ line\ of\ information\ to\ be\ printed\ beside\ the\ board\n\ @param\ str2\ the\ second\ line\ of\ such\ information\n\ @param\ str3\ the\ third\ line\ of\ such\ information\n\ @param\ arr\ an\ ArrayList<Integer>\ of\ indices\ of\ Board.grid\ which\ point\ to\ Squares\ that\ the\ player\ owns\ and\ can\ mortgage\ /\ build\ on\ /\ sell,\ etc.\n
+comment5.params=num\ arr
+comment5.target=boolean\ isMember(int,\ java.util.ArrayList)
+comment5.text=\n\ Returns\ true\ if\ the\ given\ number\ is\ a\ member\ of\ the\ given\ ArrayList.\n\ @param\ num\ the\ number\ being\ searched\ for\n\ @param\ arr\ the\ ArrayList\ being\ searched\n
+comment6.params=
+comment6.target=void\ intro()
+comment6.text=\n\ Prints\ the\ intro\ border\ to\ the\ screen.\n
+comment7.params=str
+comment7.target=java.lang.String[]\ cutString(java.lang.String)
+comment7.text=\n\ Takes\ a\ String\ and,\ if\ it\ is\ multiple\ words,\ separates\ it\ into\ two\ Strings\ of\ the\ most\ equal\ length\ possible,\ returning\ a\ String\ array\ of\ the\ two\ halves\n\ @param\ str\ the\ string\ that\ is\ to\ be\ cut\ in\ half\n
+comment8.params=
+comment8.target=void\ indent()
+comment8.text=\n\ Prints\ six\ spaces\ to\ the\ screen.\n
+numComments=9

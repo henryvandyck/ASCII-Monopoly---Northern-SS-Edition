@@ -1,0 +1,96 @@
+Big Return
+You find Mr. Marshall's car keys lying in the hallway and return to the office.
+150
+Free Ride
+Your friend brought his car to school today. Advance to Go.
+0
+Field of Forgetfulness
+Oh no! You forgot you water bottle! Advance to Field-If you pass Go, collect $200.
+0
+One-Acts
+Your friend is starring in a play. Advance to Theatre Throughway - If you pass Go, collect $200.
+0
+Utility Time
+Advance to nearest Utility. If unowned, you may buy it. 
+0
+Busy Buses
+Advance token to the nearest bus stop. If unowned, you may buy it.
+0
+Hotz Plan
+The SAC approves your club's budget.
+50
+Get Out of Detention Free
+This teacher note will release you from detention at any time.
+0
+Get Back to Class
+The hall monitor catches you leaving class early. Go back 3 spaces.
+0
+Caught Cheating
+Go directly to detention–Do not pass Go, do not collect $200
+0
+Asbestos Alert
+Health checks are needed around Northern – Pay $25 per house and $100 per hotel.
+0
+Lunch Money
+Looks like someone picked your pocket!
+-15
+Get Where Your Going
+Take a trip to Yonge Bus–If you pass Go, collect $200
+0
+Your Luck
+Mr. Jamieson wants to see you–Advance to Jamieson's Class.
+0
+Foot the Bill
+Your friends forgot their money at home–Pay each player $50.
+0
+Whose Work?
+Your essay wins a school prize, but you didn't even write it!
+100
+Lucky Break
+The Presto machine isn't working. You get a free ride! Advance to Go.
+0
+Extra! Extra!
+You wander into the Epigram's end of year party. You get free pizza!
+200
+Pizzaiolo
+You can't resist a slice of that Godfather pizza!
+-50
+Deserved Victory
+You actually study for your test. Surprise, you did well.
+50
+Get out of Detention Free
+This teacher note will release you from detention at any time.
+0
+Risky Roaches
+You're caught sneaking into the school after hours! Go directly to Detention.
+0
+SACStock
+You perform live in front of the school. Collect $50 from every player for seats.
+0
+Half Day
+Your teacher scheduled a test on a half day, so it was pushed to next week!
+100
+Blood In
+You donate blood in the gym. You get a lollipop.
+100
+Referee Fee
+You gotta pay to play sports?
+-100
+School Fee
+You gotta pay to go to school?
+-100
+Peer Tutor
+You help your brother with homework, and take his money when he's not looking.
+25
+Earth Day
+You need t-shirts for every person. Pay $40 per house and $115 per hotel.
+0
+Big Winner
+You win second place in a beauty contest.
+10
+New Staff
+A staff change opens up a spot in the staff parking lot - you take it!
+100
+Flip of a Coin
+You got Baird instead of Cote.
+-50

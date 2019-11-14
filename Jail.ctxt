@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Jail
+comment1.params=sprite
+comment1.target=Jail(java.lang.String[])
+comment1.text=\n\ Constructor\ for\ a\ Jail\ object.\ All\ the\ actual\ Jail\ mechanics\ are\ implemented\ in\ Board,\ in\ the\ main\ game\ loop.\n\ @param\ sprite\ a\ String\ representation\ of\ the\ appearance\ of\ this\ Jail\n
+comment2.params=
+comment2.target=void\ doItsThing()
+comment2.text=\n\ Performs\ Jail's\ action,\ which\ is\ nothing.\n
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Parking
+comment1.params=sprite
+comment1.target=Parking(java.lang.String[])
+comment1.text=\n\ Constructor\ for\ a\ Parking\ object.\n\ @param\ sprite\ a\ String\ representation\ of\ the\ appearance\ of\ this\ Parking\n
+comment2.params=
+comment2.target=void\ doItsThing()
+comment2.text=\n\ Gives\ the\ active\ player\ the\ current\ total\ of\ parking\ money\ and\ resets\ it,\ if\ the\ Free\ Parking\ rule\ is\ turned\ on\n
+comment3.params=
+comment3.target=int\ getParking()
+comment3.text=\n\ Returns\ the\ current\ parking\ money\ total.\n
+comment4.params=sum
+comment4.target=void\ deposit(int)
+comment4.text=\n\ Deposits\ a\ given\ sum\ into\ the\ parking\ total.\n\ @param\ sum\ the\ sum\ to\ be\ deposited\n
+numComments=5

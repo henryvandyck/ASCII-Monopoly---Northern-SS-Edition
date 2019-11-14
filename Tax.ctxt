@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Tax
+comment1.params=theName\ toll\ loc\ sprite
+comment1.target=Tax(java.lang.String,\ int,\ int,\ java.lang.String[])
+comment1.text=\n\ Constructor\ for\ a\ Tax\ object.\n\ @param\ theName\ the\ name\ of\ this\ Tax\n\ @param\ toll\ \ \ \ the\ value\ of\ this\ Tax's\ toll\n\ @param\ loc\ \ \ \ \ the\ location\ of\ this\ Tax\n\ @param\ sprite\ \ a\ String\ representation\ of\ the\ appearance\ of\ this\ Tax\n
+comment2.params=
+comment2.target=void\ doItsThing()
+comment3.params=
+comment3.target=int\ getToll()
+numComments=4

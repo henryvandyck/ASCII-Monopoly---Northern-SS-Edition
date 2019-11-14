@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Railroad
+comment1.params=theName\ theCost\ thePunishment\ loc\ sprite
+comment1.target=Railroad(java.lang.String,\ int,\ int,\ int,\ java.lang.String[])
+comment1.text=\n\ Constructor\ for\ a\ Railroad\ object.\n\ @param\ theName\ the\ name\ of\ this\ Railroad\n\ @param\ theCost\ its\ cost\n\ @param\ thePunishment\ the\ value\ of\ its\ punishment\n\ @param\ loc\ its\ location\n\ @param\ sprite\ a\ String\ representation\ of\ the\ appearance\ of\ this\ Railroad\n
+comment2.params=
+comment2.target=void\ punish()
+numComments=3

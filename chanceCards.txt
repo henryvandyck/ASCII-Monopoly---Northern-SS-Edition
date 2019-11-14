@@ -1,0 +1,48 @@
+Big Return
+You find Mr. Marshall's vape pen lying in the hallway and return to the office.
+150
+Free Ride
+Your friend brought his car to school today. Advance to Go.
+0
+Field of Forgetfullness
+Oh no! You forgot you water bottle! Advance to Field-If you pass Go, collect $200.
+0
+One-Acts
+Your friend is performing in a play. Advance to Theatre Throughway-If you pass Go, collect $200.
+0
+Utilty Time
+Advance to nearest Utility. If unowned, you may buy it from the Bank.
+0
+Busy Buses
+Advance token to the nearest Bus stop. If Railroad is unowned, you may buy it from the Bank.
+0
+Hotz Plan
+The SAC approves your club's budget.
+50
+Get Out of Detention Free
+This teacher note will release you from detention at any time.
+0
+Get Back to Class
+The hall monitor catches you leaving class early. Go back 3 spaces.
+0
+Caught Cheating
+Go directly to detention–Do not pass Go, do not collect $200
+0
+Asbestos Alert
+Dangerous materials found throughout Norhtern. Health checks needed–For each student pay $25–For each teacher $100.
+0
+Lunch Money
+Looks like someone picked your pocket!
+-15
+Get Where Your Going
+Take a trip to Yonge Bus–If you pass Go, collect $200
+0
+Your Luck
+Mr. Jamieson wants to see you–Advance to Jamieson's Class.
+0
+Foot the Bill
+Your friends forgot their money at home–Pay each player $50.
+0
+Whose Work?
+Your essay wins a school prize, but you didn't even write it!
+100

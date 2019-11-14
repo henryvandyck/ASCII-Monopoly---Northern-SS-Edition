@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GoToJail
+comment1.params=sprite
+comment1.target=GoToJail(java.lang.String[])
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GoToJail.\n\ @param\ sprite\ a\ String\ representation\ of\ the\ appearance\ of\ this\ GoToJail\n
+comment2.params=
+comment2.target=void\ doItsThing()
+comment2.text=\n\ Sends\ the\ active\ player\ to\ jail.\n
+numComments=3
